@@ -1,6 +1,24 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+main{
+    width: 100%;
+    max-width: 1200px;
+    margin:auto;
+
+}
+
+
+
+
  table, tr ,th{ 
     border: 1px solid rgb(161, 0, 53) ;
-    border-collapse: collapse;
+    border-collapse: collapse ;
+    
 }
 
 table, tr, td{
@@ -24,6 +42,20 @@ p, caption, a{
     color:rgb(191, 172, 224) ;
 }
 
-header ul{
+header ul h3{
     display: inline;
+
+    
+}
+
+header img{
+    width: 5px;
+    margin: top 30px; 
+}
+
+main{
+    width: 100%;
+    max-width: 1200px;
+    margin:auto;
+
 }
